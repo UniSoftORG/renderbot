@@ -1,2 +1,5 @@
-# ai-visual
-Visualize your AI bot with 3D
+<div align="center">
+
+# Visualize your AI Bot
+![bot.png](screenshots%2Fbot.png)
+</div>
